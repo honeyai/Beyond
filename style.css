@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+canvas {
+  background-color: #0a070f;
+  /* color: #a09f98; */
+  height: 100vh;
+  width: 100vw;
+}
+
+/* @font-face {
+  font-family: 'Pixel';
+  src: url('./assets/fonts/arcadeclassic/ARCADECLASSIC.TTF') format('truetype');
+} */
+/* @font-face {
+  font-family: 'Pixel';
+  src: url('./assets/fonts/dotty/dotty.ttf') format('truetype');
+} */
+@font-face {
+  font-family: 'Pixel';
+  src: url('./assets/fonts/subway-ticker/SUBWT___.ttf') format('truetype');
+}
